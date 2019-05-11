@@ -1,5 +1,5 @@
 puts "hello world"
 
- define hello_world
+greet hello_world
 
 
