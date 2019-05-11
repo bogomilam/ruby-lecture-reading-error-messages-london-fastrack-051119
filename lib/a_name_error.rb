@@ -1,3 +1,5 @@
-greet "hello world"
+def greet 
+"hello world"
+greet
 
 
